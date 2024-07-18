@@ -2,7 +2,7 @@
 layout: cv
 title: Jerry Thomas Twiggs Resume
 ---
-# Isaac Newton
+
 Data Science major at BYU - Idaho
 
 <div id="webaddress">
