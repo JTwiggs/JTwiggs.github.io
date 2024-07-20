@@ -44,37 +44,44 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Jerry Thomas Twiggs Resume",
+    "title": "Jerry Thomas Twiggs",
     "section": "",
     "text": "Data Science major at BYU - Idaho"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Jerry Thomas Twiggs Resume",
+    "title": "Jerry Thomas Twiggs",
     "section": "Currently",
-    "text": "Currently\nA Junior in Data Science at Brigham Young University - Idaho\n\nResearch interests\n(something will go here eventually)"
+    "text": "Currently\nA Junior in Data Science at Brigham Young University - Idaho"
+  },
+  {
+    "objectID": "resume.html#noteable-skills",
+    "href": "resume.html#noteable-skills",
+    "title": "Jerry Thomas Twiggs",
+    "section": "Noteable Skills",
+    "text": "Noteable Skills\nProficient in the following coding languages: R (primarily in Rstudio) Python html CSS Javascript\n\nResearch interests\n(something will go here eventually)"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Jerry Thomas Twiggs Resume",
+    "title": "Jerry Thomas Twiggs",
     "section": "Education",
-    "text": "Education\n2024 - Present Brigham Young University - Idaho Data Science major\n2020-2021 University of Utah Quantitative Analysis of Markets and Organizations major\n2018 - 2020 Utah Tech University Associate’s degree - Associate of Science\n2017 - 2020 ACE / Success Academy Dixie High School Diploma"
+    "text": "Education\n2024 - Present Brigham Young University - Idaho Jan 2024 - present Data Science major 3.92 GPA\n2020-2021 University of Utah Sep 2020- Apr 2021 Quantitative Analysis of Markets and Organizations major 3.83 GPA\n2018 - 2020 Utah Tech University Associate’s degree - Associate of Science Sep 2018 - Apr 2020 Honor Roll 3.72 GPA\n2017 - 2020 ACE / Success Academy Dixie High School Diploma Sep 2016 - Apr 2020 Honor Roll 3.72 GPA"
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Jerry Thomas Twiggs Resume",
-    "section": "Awards",
-    "text": "Awards\n2020 Sterling Scholarship Winner"
+    "objectID": "resume.html#awards-certifications",
+    "href": "resume.html#awards-certifications",
+    "title": "Jerry Thomas Twiggs",
+    "section": "Awards & Certifications",
+    "text": "Awards & Certifications\nSterling Scholarship Winner 2020 New Century Scholarship recipient 2020 Licensed Life & Health Insurance Agent"
   },
   {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Jerry Thomas Twiggs Resume",
-    "section": "Occupation",
-    "text": "Occupation\n2024 - present College Student"
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Jerry Thomas Twiggs",
+    "section": "Work Experience",
+    "text": "Work Experience\nCollege Student 2024 - present\nAcademic Tutor Iron County School District, ACE Academy, Saint George, Utah Jan 2020 - May 2020 Tutor for: Calculus I (Math 1210) College Algebra (Math 1050)\nProficient with online tutoring software\nPrep Cook Pasta Factory, Saint George, Utah May 2021 - Oct 2021 Piano Instructor Resonance School of Musicianship, Santa Clara, Utah Oct 2019 - May 2020\nLife & Health Insurance Agent Self Employed May 2021 - present\nMedical Data Recorder Night Light Pediatrics, Saint George, Utah Apr 2017 - Aug 2018"
   },
   {
     "objectID": "Machine_Learning/project5.html",
@@ -284,9 +291,75 @@
   {
     "objectID": "Cleansing_Projects/project1.html",
     "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Client Report - What’s In a Name?",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Show the code\nimport pandas as pd\nimport numpy as np\nimport plotly.express as px",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#elevator-pitch",
+    "href": "Cleansing_Projects/project1.html#elevator-pitch",
+    "title": "Client Report - What’s In a Name?",
+    "section": "Elevator pitch",
+    "text": "Elevator pitch\nFrom this assignment, I think it was interesting to learn that most biblical names are significantly less popular than I thought. My name, Thomas, is also significantly less common than I thought. Maybe it’s just where I grew up, but I knew quite a few people who I shared a name with. I also saw that popular names used in movies and current celebrities also affect how often a name is used. It is cool to see how quickly you can make a simple query and graph it to learn something new.\n\n\nShow the code\n# downloading the names_year.csv\nnam = pd.read_csv(\"https://github.com/byuidatascience/data4names/raw/master/data-raw/names_year/names_year.csv\")\nnam.head()\n\n\n\n\n\n\n\n\n\n\nname\nyear\nAK\nAL\nAR\nAZ\nCA\nCO\nCT\nDC\n...\nTN\nTX\nUT\nVA\nVT\nWA\nWI\nWV\nWY\nTotal\n\n\n\n\n0\nAaden\n2005\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n...\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n5.0\n\n\n1\nAaden\n2007\n0.0\n5.0\n0.0\n5.0\n20.0\n6.0\n0.0\n0.0\n...\n5.0\n14.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n98.0\n\n\n2\nAaden\n2008\n0.0\n15.0\n13.0\n20.0\n135.0\n10.0\n9.0\n0.0\n...\n15.0\n99.0\n8.0\n26.0\n0.0\n11.0\n19.0\n5.0\n0.0\n939.0\n\n\n3\nAaden\n2009\n0.0\n28.0\n20.0\n23.0\n158.0\n22.0\n12.0\n0.0\n...\n33.0\n140.0\n6.0\n17.0\n0.0\n31.0\n23.0\n14.0\n0.0\n1242.0\n\n\n4\nAaden\n2010\n0.0\n8.0\n6.0\n12.0\n62.0\n9.0\n5.0\n0.0\n...\n9.0\n56.0\n0.0\n11.0\n0.0\n7.0\n12.0\n0.0\n0.0\n414.0\n\n\n\n\n5 rows × 54 columns\n\n\n\n\nHighlight the Questions and Tasks",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#questiontask-1",
+    "href": "Cleansing_Projects/project1.html#questiontask-1",
+    "title": "Client Report - What’s In a Name?",
+    "section": "QUESTION|TASK 1",
+    "text": "QUESTION|TASK 1\nHow does your name at your birth year compare to its use historically?\n\n\nShow the code\nt = nam.query('name == \"Thomas\"')\nt\n\n\n\n\n\n\n\n\n\n\nname\nyear\nAK\nAL\nAR\nAZ\nCA\nCO\nCT\nDC\n...\nTN\nTX\nUT\nVA\nVT\nWA\nWI\nWV\nWY\nTotal\n\n\n\n\n363714\nThomas\n1910\n0.0\n87.0\n50.0\n9.0\n47.0\n14.0\n34.0\n20.0\n...\n91.0\n121.0\n12.0\n129.0\n5.0\n13.0\n30.0\n29.0\n6.0\n2842.0\n\n\n363715\nThomas\n1911\n0.0\n83.0\n53.0\n5.0\n69.0\n27.0\n58.0\n19.0\n...\n88.0\n139.0\n10.0\n104.0\n5.0\n28.0\n20.0\n36.0\n7.0\n3287.0\n\n\n363716\nThomas\n1912\n0.0\n186.0\n111.0\n19.0\n116.0\n49.0\n83.0\n27.0\n...\n180.0\n276.0\n18.0\n232.0\n11.0\n47.0\n68.0\n70.0\n9.0\n6082.0\n\n\n363717\nThomas\n1913\n0.0\n211.0\n101.0\n16.0\n152.0\n29.0\n129.0\n28.0\n...\n200.0\n350.0\n17.0\n257.0\n22.0\n49.0\n78.0\n96.0\n12.0\n6700.5\n\n\n363718\nThomas\n1914\n0.0\n265.0\n165.0\n16.0\n175.0\n48.0\n156.0\n44.0\n...\n293.0\n206.5\n37.0\n290.0\n16.0\n61.0\n99.0\n91.0\n10.0\n7925.0\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n363815\nThomas\n2011\n20.0\n127.0\n57.0\n104.0\n564.0\n99.0\n107.0\n33.0\n...\n177.0\n457.0\n116.0\n232.0\n12.0\n140.0\n114.0\n49.0\n13.0\n6904.0\n\n\n363816\nThomas\n2012\n23.0\n117.0\n47.0\n114.0\n599.0\n110.0\n71.0\n37.0\n...\n178.0\n470.0\n127.0\n258.0\n11.0\n142.0\n102.0\n31.0\n8.0\n6830.0\n\n\n363817\nThomas\n2013\n24.0\n133.0\n64.0\n116.0\n628.0\n97.0\n85.0\n49.0\n...\n179.0\n463.0\n126.0\n241.0\n14.0\n136.0\n113.0\n35.0\n14.0\n6765.0\n\n\n363818\nThomas\n2014\n17.0\n116.0\n54.0\n129.0\n612.0\n114.0\n105.0\n37.0\n...\n184.0\n470.0\n111.0\n248.0\n12.0\n154.0\n130.0\n27.0\n0.0\n6998.0\n\n\n363819\nThomas\n2015\n24.0\n136.0\n53.0\n118.0\n618.0\n129.0\n98.0\n39.0\n...\n167.0\n533.0\n134.0\n246.0\n12.0\n148.0\n115.0\n37.0\n10.0\n7123.0\n\n\n\n\n106 rows × 54 columns\n\n\n\n\n\n\nShow the code\ntom = px.line(t, x = 'year', y = 'Total')\n\ntom.add_vline(2001, line_width = 2, line_dash = 'dash', line_color = 'red')\ntom.update_layout(title = 'Number of People Named Thomas'),\ntom.add_annotation(x = 2001, y = 30000, text = \"My birth year: 2001\")\n\ntom.show()",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#questiontask-2",
+    "href": "Cleansing_Projects/project1.html#questiontask-2",
+    "title": "Client Report - What’s In a Name?",
+    "section": "QUESTION|TASK 2",
+    "text": "QUESTION|TASK 2\nIf you talked to someone named Brittany on the phone, what is your guess of his or her age? What ages would you not guess?\nBecause the name ‘Brittany’ really spiked up between the 80s and 90s, I would have to assume that anyone named Brittany is between the ages of 30 - 45. I wouldn’t guess anything higher than 45, and seeing how few people are named that after the year 2000, I wouldn’t guess lower than 30. I would immediately assume someone named Brittany is in their late 30s.\n\n\nShow the code\nb = nam.query('name == \"Brittany\"')\n\nbrit = px.line(b, x = 'year', y = 'Total')\nbrit.update_layout(title = 'Number of People Named Brittany'),\n\nbrit.show()",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#questiontask-3",
+    "href": "Cleansing_Projects/project1.html#questiontask-3",
+    "title": "Client Report - What’s In a Name?",
+    "section": "QUESTION|TASK 3",
+    "text": "QUESTION|TASK 3\nMary, Martha, Peter, and Paul are all Christian names. From 1920 - 2000, compare the name usage of each of the four names. What trends do you notice?\nEvery single name across these 4 got a huge decrease in popularity from the 50s-80s. I’m honestly surprised that Mary was so popular when compared with other bible names, granted, Martha wasn’t ever a popular name when compared with Mary. Every name had a count of less than 10k by the year 2000.\n\n\nShow the code\nbib = nam.query('(name == \"Mary\" | name == \"Martha\" | name == \"Peter\" | name == \"Paul\") and year &gt;= 1920 and year &lt;= 2000')\n\nbible = px.line(bib, x = 'year', y = 'Total', color = 'name')\nbible.update_layout(title = 'Biblical Name Count')\n\nbible.show()",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#questiontask-4",
+    "href": "Cleansing_Projects/project1.html#questiontask-4",
+    "title": "Client Report - What’s In a Name?",
+    "section": "QUESTION|TASK 4",
+    "text": "QUESTION|TASK 4\nThink of a unique name from a famous movie. Plot the usage of that name and see how changes line up with the movie release. Does it look like the movie had an effect on usage?\nWe are going to check out the name ‘Leonardo’ based off of the celebrity actor Leonardo DiCaprio and the acclaimed film ‘Titanic’. It does look like there was an increase in the popularity of the name following this movie’s release. There are certainly other factors that could be at play, but I think it would be funny if this is a major reason for the name becoming popular.\n\n\nShow the code\nl = nam.query('name == \"Leonardo\" and year &gt;= 1970')\n\nleo = px.line(l, x = 'year', y = 'Total')\nleo.add_vline(x = 1997, line_width = 2, line_dash = 'dash')\nleo.add_annotation(x = 1997, y = 1300, text = \"Film 'Titanic' Released\")\nleo.update_layout(title = 'Number of People Named Leonardo')\n\nleo.show()",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html#questions-and-tasks-stretch",
+    "href": "Cleansing_Projects/project1.html#questions-and-tasks-stretch",
+    "title": "Client Report - What’s In a Name?",
+    "section": "QUESTIONS AND TASKS (STRETCH)",
+    "text": "QUESTIONS AND TASKS (STRETCH)\nReproduce the chart Elliot using the data from the names_year.csv file.\n\n\nShow the code\nel = nam.query('name == \"Elliot\" and year &gt;= 1950')\n\nelliot = px.line(el, x = 'year', y = 'Total', color = 'name')\n# Adding the red lines for releases\nelliot.add_vline(x = 1982, line_width = 2, line_dash = 'dash', line_color = 'red')\nelliot.add_vline(x = 1985, line_width = 2, line_dash = 'dash', line_color = 'red')\nelliot.add_vline(x = 2002, line_width = 2, line_dash = 'dash', line_color = 'red')\n# Adding the annotations\nelliot.add_annotation(\n  x = 1982\n, y = 1300\n, text = \"&lt;b&gt; E.T Released &lt;/b&gt;\" \n, font = dict(size = 11)\n, opacity= 0.9\n, showarrow = False\n, xshift= -43)\n\nelliot.add_annotation(\n  x = 1985\n, y = 1300\n, text = \"&lt;b&gt; Second Release &lt;/b&gt;\"\n, font = dict(size = 11)\n, opacity= 0.9\n, showarrow = False\n, xshift = 52)\n\nelliot.add_annotation(\n  x = 2002, y = 1300\n, text = \"&lt;b&gt; Third Release &lt;/b&gt;\"\n, font = dict(size = 11)\n, opacity= 0.9\n, showarrow = False\n, xshift = 44)\n\n# Adding the title\nelliot.update_layout(\n  title = '&lt;b&gt;Elliot... What?&lt;/b&gt;'\n)\n\n# Showing the graphic\nelliot.show()",
     "crumbs": [
       "Data Cleansing",
       "Project 1"
