@@ -9,87 +9,77 @@ Data Science major at BYU - Idaho
 <a href="twi23005@byui.edu">twi23005@byyui.edu</a>
 </div>
 
-## Currently
-
-A Junior in Data Science at Brigham Young University - Idaho
-
 ## Noteable Skills
-Proficient in the following coding languages:
-R (primarily in Rstudio)
-Python
-html
-CSS
-Javascript
 
-### Research interests
-
-(something will go here eventually)
+Proficient in: 
+`R (primarily in Rstudio)` 
+`Python` 
+`html` 
+`CSS` 
+`Javascript`
 
 
 ## Education
 
-`2024 - Present`
 __Brigham Young University - Idaho__
-Jan 2024 - present
-Data Science major
-3.92 GPA
+`Jan 2024 - present`
+`Data Science major`
+`3.92 GPA`
 
-`2020-2021`
 __University of Utah__
-Sep 2020- Apr 2021
-Quantitative Analysis of Markets and Organizations major
-3.83 GPA
+`Sep 2020- Apr 2021`
+`Quantitative Analysis of Markets and Organizations major`
+`3.83 GPA`
 
-`2018 - 2020`
 __Utah Tech University__
-Associate's degree - Associate of Science
-Sep 2018 - Apr 2020
-Honor Roll
-3.72 GPA
+`Associate's degree - Associate of Science`
+`Sep 2018 - Apr 2020`
+`Honor Roll`
+`3.72 GPA`
 
-`2017 - 2020`
 __ACE / Success Academy Dixie__
-High School Diploma
-Sep 2016 - Apr 2020
-Honor Roll
-3.72 GPA
+`High School Diploma`
+`Sep 2016 - Apr 2020`
+`Honor Roll`
+`3.72 GPA`
 
 
 ## Awards & Certifications
 
-Sterling Scholarship Winner 2020
-New Century Scholarship recipient 2020
-Licensed Life & Health Insurance Agent
+`Sterling Scholarship Winner 2020`
+`New Century Scholarship recipient 2020`
+`Licensed Life & Health Insurance Agent`
 
 
 ## Work Experience
+
 __College Student__
 `2024 - present`
 
-
 __Academic Tutor__
 Iron County School District, ACE Academy, Saint George, Utah
-Jan 2020 - May 2020
-Tutor for:
-Calculus I (Math 1210)
-College Algebra (Math 1050)
+`Jan 2020 - May 2020`
+`Tutor for:`
+`Calculus I (Math 1210)`
+`College Algebra (Math 1050)`
 
-Proficient with online tutoring software
+`Proficient with online tutoring software`
 
 __Prep Cook__
 Pasta Factory, Saint George, Utah
-May 2021 - Oct 2021
+`May 2021 - Oct 2021`
+
 __Piano Instructor__
 Resonance School of Musicianship, Santa Clara, Utah
-Oct 2019 - May 2020
+`Oct 2019 - May 2020`
 
 __Life & Health Insurance Agent__
 Self Employed
-May 2021 - present
+`May 2021 - present`
 
 __Medical Data Recorder__
 Night Light Pediatrics, Saint George, Utah
-Apr 2017 - Aug 2018
+`Apr 2017 - Aug 2018`
 
 
 
