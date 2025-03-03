@@ -94,8 +94,6 @@
   "skills": [
     {
       "name": "Data Visualization",
-      // "level": "Master",
-      // "icon": "fa-solid fa-hashtag",
       "language": ["Python", "R", "Tableau", "Power BI"],
       "keywords": [
         "Data",
@@ -107,8 +105,6 @@
     },
     {
       "name": "Machine Learning",
-      // "level": "Master",
-      // "icon": "fa-solid fa-hashtag",
       "language": ["Python", "R"],
       "keywords": [
         "Deep",
@@ -120,8 +116,6 @@
     },
     {
       "name": "Statistical Analysis",
-      // "level": "Master",
-      // "icon": "fa-solid fa-hashtag",
       "language": ["Python", "R"],
       "keywords": [
         "Data",
@@ -131,8 +125,6 @@
     },
     {
       "name": "Data Cleaning",
-      // "level": "Master",
-      // "icon": "fa-solid fa-hashtag",
       "language": ["Python", "R", "Spark", "SQL", "SparkSQL"],
       "keywords": [
         "Data",
@@ -142,8 +134,6 @@
     },
     {
       "name": "Statistical Modeling",
-      // "level": "Master",
-      // "icon": "fa-solid fa-hashtag",
       "language": ["Python", "R"],
       "keywords": [
         "Data",
@@ -169,21 +159,18 @@
   "references": [
     {
       "name": "Dr. Garrett Saunders",
-      // "icon": "fa-solid fa-laptop",
       "reference": "Applied Linear Regressions | Biostatistics Program Director | Brigham Young University - Idaho",
       "email": "saundersg@byui.edu",
       "phone": "208-496-7546"
     },
     {
       "name": "Paul Cannon",
-      // "icon": "fa-solid fa-thumbtack",
       "reference": "Machine Learning | Mathematics Faculty | Brigham Young University - Idaho",
       "email": "cannonp@byui.edu",
       "phone": "208-496-7565"
     },
     {
       "name": "David Palmer",
-      // "icon": "fa-solid fa-laptop",
       "reference": "Data Wrangling & Visualizations | Mathematics Faculty | Brigham Young University - Idaho",
       "email": "palmerda@byui.edu",
       "phone": "208-496-2597"
