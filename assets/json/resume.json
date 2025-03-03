@@ -1,31 +1,40 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "JT Twggs",
+    "label": "Data Analyst / Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "twiggsjt@gmail.com",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/jt-twiggs/",
+    "summary": "Local to Southern Utah, I am a data analyst with a passion for data science and machine learning. I have experience in Python, SQL, and R, and I am always looking to learn new skills and technologies. I am a team player who enjoys collaborating with others to solve complex problems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "123 Main St",
+      "postalCode": "84770",
+      "city": "St. George",
       "countryCode": "US",
-      "region": "California"
+      "region": "Utah"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "JT wiggs",
+        "url": "https://www.linkedin.com/in/jt-twiggs/"
+      },
+      {
+        "network": "GitHub",
+        "username": "JTwiggs",
+        "url": "https://github.com/JTwiggs"
+      },
+      {
+        "network": "Facebook",
+        "username": "JT Twiggs",
+        "url": "https://www.facebook.com/people/JT-Twiggs/pfbid0kkN1ZAaSBemyhRFQfFZvbxkJt5CJA17wpAEe6tn4uHXnYgPRHM9gjr7ea55tw3zfl/?sk=photos"
       }
-    ]
-  },
+    ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "AI Tutoring Bot - Talos AI",
+      "position": "AI Agent Engineering Consultant",
       "url": "https://example.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
@@ -47,154 +56,155 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Brigham Young University - Idaho",
+      "location": "Rexburg, Idaho",
+      "url": "https://www.byui.edu/",
+      "degree": "Bachelor of Science",
+      "major": "Data Science",
+      "studyType": "BS",
+      "startDate": "2024-01-07",
+      "endDate": "present",
+      "GPA": "3.91",
+      "courses": ["Data Wrangling & Visualizations", "Machine Learning", "Statistics and Data Science Consulting"]
     }
   ],
-  "awards": [
+  "Awards and Certifications": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Life & Health Insurance License",
+      "date": "2020-07-17",
+      "issuer": "Utah Insurance Department",
+      "url": "https://insurance.utah.gov/",
+      "icon": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "SEDC Sterling Scholar Award",
+      "date": "2020-04-15",
+      "issuer": "Southwest Educational Development Center",
+      "url": "https://ss.sedck12.org/",
+      "icon": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Eagle Scout Award",
+      "date": "2019-06-18",
+      "issuer": "Boy Scouts of America",
+      "url": "https://www.scouting.org/",
+      "icon": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Data Visualization",
+      // "level": "Master",
+      // "icon": "fa-solid fa-hashtag",
+      "language": ["Python", "R", "Tableau", "Power BI"],
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Data",
+        "Visual",
+        "Visualization",
+        "Analytics",
+        "Analysis"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      // "level": "Master",
+      // "icon": "fa-solid fa-hashtag",
+      "language": ["Python", "R"],
+      "keywords": [
+        "Deep",
+        "Machine",
+        "Learning",
+        "Analytics",
+        "Analysis"
+      ]
+    },
+    {
+      "name": "Statistical Analysis",
+      // "level": "Master",
+      // "icon": "fa-solid fa-hashtag",
+      "language": ["Python", "R"],
+      "keywords": [
+        "Data",
+        "Statistical",
+        "Analysis"
+      ]
+    },
+    {
+      "name": "Data Cleaning",
+      // "level": "Master",
+      // "icon": "fa-solid fa-hashtag",
+      "language": ["Python", "R", "Spark", "SQL", "SparkSQL"],
+      "keywords": [
+        "Data",
+        "Cleaning",
+        "Analysis"
+      ]
+    },
+    {
+      "name": "Statistical Modeling",
+      // "level": "Master",
+      // "icon": "fa-solid fa-hashtag",
+      "language": ["Python", "R"],
+      "keywords": [
+        "Data",
+        "Modeling",
+        "Analysis"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Python",
+      "Packages": [
+        "Polars", 
+        "Pandas", 
+        "NumPy", 
+        "Plotly",  
+        "Scikit-learn", 
+        "BeautifulSoup"
+      ],
       "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Garrett Saunders",
+      // "icon": "fa-solid fa-laptop",
+      "reference": "Applied Linear Regressions | Biostatistics Program Director | Brigham Young University - Idaho",
+      "email": "saundersg@byui.edu",
+      "phone": "208-496-7546"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Paul Cannon",
+      // "icon": "fa-solid fa-thumbtack",
+      "reference": "Machine Learning | Mathematics Faculty | Brigham Young University - Idaho",
+      "email": "cannonp@byui.edu",
+      "phone": "208-496-7565"
+    },
+    {
+      "name": "David Palmer",
+      // "icon": "fa-solid fa-laptop",
+      "reference": "Data Wrangling & Visualizations | Mathematics Faculty | Brigham Young University - Idaho",
+      "email": "palmerda@byui.edu",
+      "phone": "208-496-2597"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Tutoring Center Dashboard Application",
+      "description": "A dashboard application that provides insights into the tutoring center's average visit times and tutoring resource usage.",
+      "keywords": ["R", "R Shiny", "Interactive Dashboard", "Data Cleaning", "Data Visualization"],
+      "startDate": "2025-01-15",
+      "endDate": "present",
+      "url": "https://github.com/BYUIDSS/DSS_TutoringCenter"
+    },
+    {
+      "name": "Severe Weather Analysis",
+      "description": "Project client: Western Electricity Coordination Council (WECC). Logistic Regression to predict the probability of severe weather in given conditions.",
+      "keywords": ["Python", "R", "Microsoft Excel", "Data Analysis", "Logistic Regression"],
+      "startDate": "2024-09-17",
+      "endDate": "2024-12-08"
     }
   ]
+}
 }
