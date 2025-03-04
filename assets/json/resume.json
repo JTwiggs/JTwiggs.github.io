@@ -1,33 +1,37 @@
 {
-  "basics": [
-    {
+  "basics": {
     "name": "JT Twggs",
     "label": "Data Analyst / Data Scientist",
     "image": "",
     "email": "twiggsjt@gmail.com",
-    "phone": "",
+    "phone": "435 236-0414",
     "url": "https://www.linkedin.com/in/jt-twiggs/",
-    "summary": "Local to Southern Utah, I am a data analyst with a passion for data science and machine learning. I have experience in Python, SQL, and R, and I am always looking to learn new skills and technologies. I am a team player who enjoys collaborating with others to solve complex problems."
-  }
-  ],
-
-  "profiles": [
-    {
-      "network": "LinkedIn",
-      "username": "JT wiggs",
-      "url": "https://www.linkedin.com/in/jt-twiggs/"
+    "summary": "Local to Southern Utah, I am a data analyst with a passion for data science and machine learning. I have experience in Python, SQL, and R, and I am always looking to learn new skills and technologies. I am a team player who enjoys collaborating with others to solve complex problems.",
+    "location": {
+      "address": "n/a",
+      "postalCode": "n/a",
+      "city": "n/a",
+      "countryCode": "US",
+      "region": "Midwest"
     },
-    {
-      "network": "GitHub",
-      "username": "JTwiggs",
-      "url": "https://github.com/JTwiggs"
-    },
-    {
-      "network": "Facebook",
-      "username": "JT Twiggs",
-      "url": "https://www.facebook.com/people/JT-Twiggs/pfbid0kkN1ZAaSBemyhRFQfFZvbxkJt5CJA17wpAEe6tn4uHXnYgPRHM9gjr7ea55tw3zfl/?sk=photos"
-    }
-    ],
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "JT wiggs",
+        "url": "https://www.linkedin.com/in/jt-twiggs/"
+      },
+      {
+        "network": "GitHub",
+        "username": "JTwiggs",
+        "url": "https://github.com/JTwiggs"
+      },
+      {
+        "network": "Facebook",
+        "username": "JT Twiggs",
+        "url": "https://www.facebook.com/people/JT-Twiggs/pfbid0kkN1ZAaSBemyhRFQfFZvbxkJt5CJA17wpAEe6tn4uHXnYgPRHM9gjr7ea55tw3zfl/?sk=photos"
+      }
+    ]
+  },
   "work": [
     {
       "name": "AI Tutoring Bot - Talos AI",
@@ -41,10 +45,9 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
+      "organization": "Church of Jesus Christ of Latter-Day Saints - Humanitarian & Religious Service Mission",
+      "location": "Trinidad & Tobago, Guyana",
+      "position": "District Leader",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
@@ -65,14 +68,7 @@
       "courses": ["Data Wrangling & Visualizations", "Machine Learning", "Statistics and Data Science Consulting"]
     }
   ],
-  "Awards and Certifications": [
-    {
-      "name": "Life & Health Insurance License",
-      "date": "2020-07-17",
-      "issuer": "Utah Insurance Department",
-      "url": "https://insurance.utah.gov/",
-      "icon": ""
-    },
+  "awards": [
     {
       "name": "SEDC Sterling Scholar Award",
       "date": "2020-04-15",
@@ -87,6 +83,17 @@
       "url": "https://www.scouting.org/",
       "icon": ""
     }
+  ],
+  "certificates": [
+    {
+      "name": "Life & Health Insurance License - Utah",
+      "date": "2020-07-17",
+      "issuer": "Utah Insurance Department",
+      "url": "https://insurance.utah.gov/",
+      "icon": ""
+    }
+  ],
+  "publications": [
   ],
   "skills": [
     {
@@ -142,7 +149,7 @@
   "languages": [
     {
       "language": "Python",
-      "Packages": [
+      "fluency": [
         "Polars", 
         "Pandas", 
         "NumPy", 
@@ -151,6 +158,20 @@
         "BeautifulSoup"
       ],
       "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Data Science",
+      "keywords": ["Data Visualization", "Statistics", "Data Analysis"]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": ["AI Agents", "RAG Modelling", "Computer Vision", "Natural Language Processing"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["Classification Models", "Clustering Models", "Neural Networks"]
     }
   ],
   "references": [
@@ -176,18 +197,19 @@
   "projects": [
     {
       "name": "Tutoring Center Dashboard Application",
-      "description": "A dashboard application that provides insights into the tutoring center's average visit times and tutoring resource usage.",
-      "keywords": ["R", "R Shiny", "Interactive Dashboard", "Data Cleaning", "Data Visualization"],
+      "summary": "A dashboard application that provides insights into the tutoring center's average visit times and tutoring resource usage.",
+      "highlights": ["R", "R Shiny", "Interactive Dashboard", "Data Cleaning", "Data Visualization"],
       "startDate": "2025-01-15",
       "endDate": "present",
       "url": "https://github.com/BYUIDSS/DSS_TutoringCenter"
     },
     {
       "name": "Severe Weather Analysis",
-      "description": "Project client: Western Electricity Coordination Council (WECC). Logistic Regression to predict the probability of severe weather in given conditions.",
-      "keywords": ["Python", "R", "Microsoft Excel", "Data Analysis", "Logistic Regression"],
+      "summary": "Project client: Western Electricity Coordination Council (WECC). Logistic Regression to predict the probability of severe weather in given conditions.",
+      "highlights": ["Python", "R", "Microsoft Excel", "Data Analysis", "Logistic Regression"],
       "startDate": "2024-09-17",
-      "endDate": "2024-12-08"
+      "endDate": "2024-12-08",
+      "url": "n/a"
     }
   ]
 }
