@@ -1,35 +1,32 @@
 {
-  "basics": {
+  "basics": [
+    {
     "name": "JT Twggs",
     "label": "Data Analyst / Data Scientist",
     "image": "",
     "email": "twiggsjt@gmail.com",
     "phone": "",
     "url": "https://www.linkedin.com/in/jt-twiggs/",
-    "summary": "Local to Southern Utah, I am a data analyst with a passion for data science and machine learning. I have experience in Python, SQL, and R, and I am always looking to learn new skills and technologies. I am a team player who enjoys collaborating with others to solve complex problems.",
-    "location": {
-      "address": "123 Main St",
-      "postalCode": "84770",
-      "city": "St. George",
-      "countryCode": "US",
-      "region": "Utah"
+    "summary": "Local to Southern Utah, I am a data analyst with a passion for data science and machine learning. I have experience in Python, SQL, and R, and I am always looking to learn new skills and technologies. I am a team player who enjoys collaborating with others to solve complex problems."
+  }
+  ],
+
+  "profiles": [
+    {
+      "network": "LinkedIn",
+      "username": "JT wiggs",
+      "url": "https://www.linkedin.com/in/jt-twiggs/"
     },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "JT wiggs",
-        "url": "https://www.linkedin.com/in/jt-twiggs/"
-      },
-      {
-        "network": "GitHub",
-        "username": "JTwiggs",
-        "url": "https://github.com/JTwiggs"
-      },
-      {
-        "network": "Facebook",
-        "username": "JT Twiggs",
-        "url": "https://www.facebook.com/people/JT-Twiggs/pfbid0kkN1ZAaSBemyhRFQfFZvbxkJt5CJA17wpAEe6tn4uHXnYgPRHM9gjr7ea55tw3zfl/?sk=photos"
-      }
+    {
+      "network": "GitHub",
+      "username": "JTwiggs",
+      "url": "https://github.com/JTwiggs"
+    },
+    {
+      "network": "Facebook",
+      "username": "JT Twiggs",
+      "url": "https://www.facebook.com/people/JT-Twiggs/pfbid0kkN1ZAaSBemyhRFQfFZvbxkJt5CJA17wpAEe6tn4uHXnYgPRHM9gjr7ea55tw3zfl/?sk=photos"
+    }
     ],
   "work": [
     {
@@ -194,4 +191,4 @@
     }
   ]
 }
-}
+
