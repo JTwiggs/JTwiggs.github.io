@@ -16,9 +16,19 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "JT Twiggs",
+        "url": "https://www.linkedin.com/in/jt-twiggs/"
+      },
+      {
+        "network": "GitHub",
+        "username": "JTwiggs",
+        "url": "https://github.com/JTwiggs"
+      },
+      {
+        "network": "Facebook",
+        "username": "JT Twiggs",
+        "url": "https://www.facebook.com/people/JT-Twiggs/pfbid0kkN1ZAaSBemyhRFQfFZvbxkJt5CJA17wpAEe6tn4uHXnYgPRHM9gjr7ea55tw3zfl/?sk=photos"
       }
     ]
   },
