@@ -115,7 +115,7 @@
     },
     {
       "name": "Data Analysis",
-      "language": [
+      "keywords": [
         "Python", 
         "R",
         "Pandas",
@@ -128,7 +128,7 @@
     },
     {
       "name": "Statistical Modeling",
-      "language": [
+      "keywords": [
         "Python", 
         "R",
         "logistic regression",
@@ -169,18 +169,34 @@
         "Carcassonne",
         "Castle Panic"
       ]
+    },
+    {
+      "name": "Card Games",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Balatro",
+        "MTG",
+        "Silver",
+        "Exploding Kittens",
+        "Texas Hold'em"
+      ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Garrett Saunders",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Biostatistics Program Director | saundersg@byui.edu | 208-496-7546"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Paul Cannon",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Mathematics Faculty | cannonp@byui.edu | 208-496-7565"
+    },
+    {
+      "name": "David Palmer",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Mathematics Faculty | palmerda@byui.edu | 208-496-2597"
     }
   ],
   "projects": [
