@@ -51,7 +51,7 @@
       "startDate": "2021-11-17",
       "endDate": "2023-11-20",
       "summary": "Planned lessons for groups of up to 20 people, organized groups of up to 10 volunteers for weekly humanitarian and religious service projects, and provided support to volunteers.",
-      "highlights": ["Public Speaking", "Leadership", "Service, Teaching, Organization"]
+      "highlights": ["Public Speaking", "Leadership", "Service"]
     }
   ],
   "education": [
@@ -70,11 +70,18 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "SEDC Sterling Scholar Award",
+      "date": "2020-04-15",
+      "issuer": "Southwest Educational Development Center",
+      "url": "https://ss.sedck12.org/",
+      "icon": ""
+    },
+    {
+      "name": "Eagle Scout Award",
+      "date": "2019-06-18",
+      "issuer": "Boy Scouts of America",
+      "url": "https://www.scouting.org/",
+      "icon": ""
     }
   ],
   "certificates": [
