@@ -86,7 +86,7 @@
   ],
   "certificates": [
     {
-      "name": "Life & Health Insurance License - Utah",
+      "name": "Life & Health Insurance License",
       "date": "2020-07-17",
       "issuer": "Utah Insurance Department",
       "url": "https://insurance.utah.gov/",
@@ -112,31 +112,62 @@
         "Scikit-learn",
         "Google Vertex AI"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Data Analysis",
+      "language": [
+        "Python", 
+        "R",
+        "Pandas",
+        "NumPy",
+        "Polars",
+        "Spark",
+        "SQL",
+        "SparkSQL"
+      ]
+    },
+    {
+      "name": "Statistical Modeling",
+      "language": [
+        "Python", 
+        "R",
+        "logistic regression",
+        "linear regression"
+      ]
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Reading",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Brandon Sanderson",
+        "Joe Abercrombie",
+        "Andy Weir",
+        "Scott Meyer",
+        "Orson Scott Card"
+      ]
+    },
+    {
+      "name": "Hiking / Mountain Biking",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Wire Mesa Trail",
+        "Gooseberry Mesa",
+        "Angel's Landing",
+        "Paradise Trail",
+        "Hiawatha Trail"
+      ]
+    },
+    {
+      "name": "Board Games",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Dune Uprising",
+        "Dice Forge",
+        "Catan",
+        "Carcassonne",
+        "Castle Panic"
       ]
     }
   ],
