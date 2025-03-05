@@ -34,7 +34,16 @@
   },
   "work": [
     {
-      "name": "AI Tutoring Bot - Talos AI",
+      "name": "Brigham Young University - Idaho",
+      "position": "Teacher's Assistant: Math 425 - Applied Linear Regressions",
+      "url": "",
+      "startDate": "2025-02-27",
+      "endDate": "2025-03-8",
+      "summary": "Assisted in grading assignments, holding office hours, and providing feedback to students in the Applied Linear Regressions highlight project: Regression Battleship.",
+      "highlights": ["Linear Regressions", "Communication", "R"]
+    },
+    {
+      "name": "Brigham Young University - Idaho",
       "position": "AI Agent Engineering Consultant",
       "url": "https://example.com",
       "startDate": "2025-01-14",
@@ -201,12 +210,20 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Tutoring Center Dashboard Application",
+      "summary": "A dashboard application that provides insights into the tutoring center's average visit times and tutoring resource usage.",
+      "highlights": ["R", "R Shiny", "Interactive Dashboard", "Data Cleaning", "Data Visualization"],
+      "startDate": "2025-01-15",
+      "endDate": "present",
+      "url": "https://github.com/BYUIDSS/DSS_TutoringCenter"
+    },
+    {
+      "name": "Severe Weather Analysis",
+      "summary": "Project client: Western Electricity Coordination Council (WECC). Logistic Regression to predict the probability of severe weather in given conditions.",
+      "highlights": ["Python", "R", "Microsoft Excel", "Data Analysis", "Logistic Regression"],
+      "startDate": "2024-09-17",
+      "endDate": "2024-12-08",
+      "url": "n/a"
     }
   ]
 }
