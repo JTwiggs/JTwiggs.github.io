@@ -40,7 +40,7 @@
       "startDate": "2025-01-14",
       "endDate": "2025-04-08",
       "summary": "Designed a proof-of-concept AI Agent to help lighten the grading load for introductory courses, help students understand course material, and send reports on class understanding.",
-      "highlights": ["AI Agent"]
+      "highlights": ["AI Agent", "Data Privacy & Security", "RAG models"]
     }
   ],
   "volunteer": [
@@ -99,13 +99,18 @@
     {
       "name": "Data Visualization",
       "keywords": [
-        "Python", 
-        "R", 
-        "Tableau", 
-        "Power BI",
         "Plotly-Express",
         "Lets-Plot",
         "ggplot2"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "Python", 
+        "R",
+        "Scikit-learn",
+        "Google Vertex AI"
       ]
     }
   ],
