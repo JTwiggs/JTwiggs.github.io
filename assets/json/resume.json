@@ -70,16 +70,16 @@
   ],
   "awards": [
     {
-      "name": "SEDC Sterling Scholar Award",
+      "title": "SEDC Sterling Scholar Award",
       "date": "2020-04-15",
-      "issuer": "Southwest Educational Development Center",
+      "awarder": "Southwest Educational Development Center",
       "url": "https://ss.sedck12.org/",
       "icon": ""
     },
     {
-      "name": "Eagle Scout Award",
+      "title": "Eagle Scout Award",
       "date": "2019-06-18",
-      "issuer": "Boy Scouts of America",
+      "awarder": "Boy Scouts of America",
       "url": "https://www.scouting.org/",
       "icon": ""
     }
