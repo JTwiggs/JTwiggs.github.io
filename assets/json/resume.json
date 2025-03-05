@@ -37,22 +37,21 @@
       "name": "AI Tutoring Bot - Talos AI",
       "position": "AI Agent Engineering Consultant",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2025-01-14",
+      "endDate": "2025-04-08",
+      "summary": "Designed a proof-of-concept AI Agent to help lighten the grading load for introductory courses, help students understand course material, and send reports on class understanding.",
+      "highlights": ["AI Agent, LLM, RAG"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Church of Jesus Christ of Latter-Day Saints - Humanitarian & Religious Service Mission",
+      "location": "Trinidad & Tobago, Guyana",
+      "position": "Missionary, District Leader",
+      "startDate": "2021-11-17",
+      "endDate": "2023-11-20",
+      "summary": "Planned lessons for groups of up to 20 people, organized groups of up to 10 volunteers for weekly humanitarian and religious service projects, and provided support to volunteers.",
+      "highlights": ["Public Speaking", "Leadership", "Service, Teaching, Organization"]
     }
   ],
   "education": [
