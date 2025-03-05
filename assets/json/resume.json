@@ -40,13 +40,13 @@
       "startDate": "2025-01-14",
       "endDate": "2025-04-08",
       "summary": "Designed a proof-of-concept AI Agent to help lighten the grading load for introductory courses, help students understand course material, and send reports on class understanding.",
-      "highlights": ["AI Agent, LLM, RAG"]
+      "highlights": ["AI Agent", "LLM", "RAG"]
     }
   ],
   "volunteer": [
     {
       "organization": "Church of Jesus Christ of Latter-Day Saints - Humanitarian & Religious Service Mission",
-      "location": "Trinidad & Tobago, Guyana",
+      "location": "Trinidad & Tobago",
       "position": "Missionary, District Leader",
       "startDate": "2021-11-17",
       "endDate": "2023-11-20",
