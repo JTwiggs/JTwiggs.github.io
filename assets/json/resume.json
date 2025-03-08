@@ -32,7 +32,7 @@
       }
     ]
   },
-  "work": [
+  "Experiences": [
     {
       "name": "Brigham Young University - Idaho",
       "position": "Teacher's Assistant: Math 425 - Applied Linear Regressions",
@@ -200,12 +200,12 @@
     {
       "name": "Paul Cannon",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Mathematics Faculty | cannonp@byui.edu | 208-496-7565"
+      "reference": "Data Science Faculty | cannonp@byui.edu | 208-496-7565"
     },
     {
       "name": "David Palmer",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Mathematics Faculty | palmerda@byui.edu | 208-496-2597"
+      "reference": "Data Science Faculty | palmerda@byui.edu | 208-496-2597"
     }
   ],
   "projects": [
