@@ -14,55 +14,6 @@
       "countryCode": "US",
       "region": "Midwest"
     },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "JT Twiggs",
-        "url": "https://www.linkedin.com/in/jt-twiggs/"
-      },
-      {
-        "network": "GitHub",
-        "username": "JTwiggs",
-        "url": "https://github.com/JTwiggs"
-      },
-      {
-        "network": "Facebook",
-        "username": "JT Twiggs",
-        "url": "https://www.facebook.com/people/JT-Twiggs/pfbid0kkN1ZAaSBemyhRFQfFZvbxkJt5CJA17wpAEe6tn4uHXnYgPRHM9gjr7ea55tw3zfl/?sk=photos"
-      }
-    ]
-  },
-  "Experiences": [
-    {
-      "name": "Brigham Young University - Idaho",
-      "position": "Teacher's Assistant: Math 425 - Applied Linear Regressions",
-      "url": "",
-      "startDate": "2025-02-27",
-      "endDate": "2025-03-8",
-      "summary": "Assisted in grading assignments, holding office hours, and providing feedback to students in the Applied Linear Regressions highlight project: Regression Battleship.",
-      "highlights": ["Linear Regressions", "Communication", "R"]
-    },
-    {
-      "name": "Brigham Young University - Idaho",
-      "position": "AI Agent Engineering Consultant",
-      "url": "https://example.com",
-      "startDate": "2025-01-14",
-      "endDate": "2025-04-08",
-      "summary": "Designed a proof-of-concept AI Agent to help lighten the grading load for introductory courses, help students understand course material, and send reports on class understanding.",
-      "highlights": ["AI Agent", "Data Privacy & Security", "RAG models"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Church of Jesus Christ of Latter-Day Saints - Humanitarian & Religious Service Mission",
-      "location": "Trinidad & Tobago",
-      "position": "Missionary, District Leader",
-      "startDate": "2021-11-17",
-      "endDate": "2023-11-20",
-      "summary": "Planned lessons for groups of up to 20 people, organized groups of up to 10 volunteers for weekly humanitarian and religious service projects, and provided support to volunteers.",
-      "highlights": ["Public Speaking", "Leadership", "Service"]
-    }
-  ],
   "education": [
     {
       "institution": "Brigham Young University - Idaho",
@@ -75,34 +26,19 @@
       "endDate": "present",
       "GPA": "3.91",
       "courses": ["Data Wrangling & Visualizations", "Machine Learning", "Statistics and Data Science Consulting"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "SEDC Sterling Scholar Award",
-      "date": "2020-04-15",
-      "awarder": "Southwest Educational Development Center",
-      "url": "https://ss.sedck12.org/",
-      "icon": ""
     },
     {
-      "title": "Eagle Scout Award",
-      "date": "2019-06-18",
-      "awarder": "Boy Scouts of America",
-      "url": "https://www.scouting.org/",
-      "icon": ""
+      "institution": "Utah Tech University",
+      "location": "St. George, Utah",
+      "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChsSEwjPoOmwhI2MAxV5CK0GHajyKWkYACICCAEQABoCcHY&co=1&gclid=Cj0KCQjwytS-BhCKARIsAMGJyzpMLFldVRPpf3BFXQRo8XQvvk_snx9eqcPTXPiIGOS_4bZNBloNlA0aAsmMEALw_wcB&ohost=www.google.com&cid=CAESVuD2Brl2xJDsY8FkGZsw9LF_lGz5fo_hwAi3TrruOu0gxlJkchRx9mTMcVRIvlcoFjcKkh_aLpu80kluZUWDHJ7Lfv8yNLHfuBYXjhd5CgFH0mYvhPji&sig=AOD64_3pOUrG4cOobTQBho_mO5xAqqE-ng&q&adurl&ved=2ahUKEwjZ4uKwhI2MAxVEIDQIHf7UHe4Q0Qx6BAgcEAE",
+      "degree": "Associate of Science",
+      "major": "Computer Science",
+      "studyType": "AS - Comp. Sci. - 3.73 GPA",
+      "startDate": "2018-01-07",
+      "endDate": "2020-4-15",
+      "GPA": "3.73",
+      "courses": ["Intro to Engineering & Rapid Prototyping", "Physics for Scientists & Engineers", "Web Development & Design"]
     }
-  ],
-  "certificates": [
-    {
-      "name": "Life & Health Insurance License",
-      "date": "2020-07-17",
-      "issuer": "Utah Insurance Department",
-      "url": "https://insurance.utah.gov/",
-      "icon": ""
-    }
-  ],
-  "publications": [
   ],
   "skills": [
     {
@@ -118,8 +54,7 @@
       "keywords": [
         "Python", 
         "R",
-        "Scikit-learn",
-        "Google Vertex AI"
+        "Scikit-learn"
       ]
     },
     {
@@ -127,12 +62,8 @@
       "keywords": [
         "Python", 
         "R",
-        "Pandas",
-        "NumPy",
-        "Polars",
         "Spark",
-        "SQL",
-        "SparkSQL"
+        "SQL"
       ]
     },
     {
@@ -145,7 +76,131 @@
       ]
     }
   ],
-  "interests": [
+  "projects": 
+  [
+    {
+      "name": "Stats VS. Sentiment in the Octagon",
+      "summary": "Investigating the use of RAG models when given access to fighter data and public opinion on who would win a fight in the Octagon.",
+      "highlights": ["AI Agent", "Web Scraping", "RAG models"],
+      "startDate": "2025-01-14",
+      "endDate": "2025-04-08",
+      "url": ""
+    },
+    {
+      "name": "Tutoring AI Chatbot",
+      "summary": "Designed a proof-of-concept AI Agent to help lighten the grading load for introductory courses, help students understand course material, and send reports on class understanding.",
+      "highlights": ["AI Agent", "Data Privacy & Security", "RAG models"],
+      "startDate": "2025-01-14",
+      "endDate": "2025-04-08",
+      "url": ""
+    },
+    {
+      "name": "Tutoring Center Dashboard Application",
+      "summary": "A dashboard application that provides insights into the tutoring center's average visit times and tutoring resource usage.",
+      "highlights": ["R", "R Shiny", "Interactive Dashboard", "Data Cleaning", "Data Visualization"],
+      "startDate": "2025-01-15",
+      "endDate": "present",
+      "url": "https://github.com/BYUIDSS/DSS_TutoringCenter"
+    },
+    {
+      "name": "Severe Weather Analysis",
+      "summary": "Project client: Western Electricity Coordination Council (WECC). Logistic Regression to predict the probability of severe weather in given conditions.",
+      "highlights": ["Python", "R", "Microsoft Excel", "Data Analysis", "Logistic Regression"],
+      "startDate": "2024-09-17",
+      "endDate": "2024-12-08",
+      "url": ""
+    }
+  ],
+  "work": 
+  [
+    {
+      "name": "Brigham Young University - Idaho",
+      "position": "Teacher's Assistant / Tutor: Math 425 - Applied Linear Regressions",
+      "url": "",
+      "startDate": "2025-02-27",
+      "endDate": "2025-03-8",
+      "summary": "Assisted in grading assignments, holding office hours, and providing feedback to students in the Applied Linear Regressions highlight project: Regression Battleship.",
+      "highlights": ["Linear Regressions", "Communication", "R"]
+    }
+  ],
+  "certificates": 
+  [
+    {
+      "name": "Life & Health Insurance License",
+      "date": "2020-07-17",
+      "issuer": "Utah Insurance Department",
+      "url": "https://insurance.utah.gov/",
+      "icon": ""
+    }
+  ],
+  "awards": 
+  [
+    {
+      "title": "SEDC Sterling Scholar Award",
+      "date": "2020-04-15",
+      "awarder": "Southwest Educational Development Center",
+      "url": "https://ss.sedck12.org/",
+      "icon": ""
+    },
+    {
+      "title": "Eagle Scout Award",
+      "date": "2019-06-18",
+      "awarder": "Boy Scouts of America",
+      "url": "https://www.scouting.org/",
+      "icon": ""
+    }
+  ],
+  "profiles": 
+  [
+    {
+      "network": "LinkedIn",
+      "username": "JT Twiggs",
+      "url": "https://www.linkedin.com/in/jt-twiggs/"
+    },
+    {
+      "network": "GitHub",
+      "username": "JTwiggs",
+      "url": "https://github.com/JTwiggs"
+    },
+    {
+      "network": "Facebook",
+      "username": "JT Twiggs",
+      "url": "https://www.facebook.com/people/JT-Twiggs/pfbid0kkN1ZAaSBemyhRFQfFZvbxkJt5CJA17wpAEe6tn4uHXnYgPRHM9gjr7ea55tw3zfl/?sk=photos"
+    }
+  ]
+  },
+  "volunteer": 
+  [
+    {
+      "organization": "Church of Jesus Christ of Latter-Day Saints - Humanitarian & Religious Service Mission",
+      "location": "Trinidad & Tobago",
+      "position": "Missionary, District Leader",
+      "startDate": "2021-11-17",
+      "endDate": "2023-11-20",
+      "summary": "Planned lessons for groups of up to 20 people, organized groups of up to 10 volunteers for weekly humanitarian and religious service projects, and provided support to volunteers.",
+      "highlights": ["Public Speaking", "Leadership", "Service"]
+    }
+  ],
+  "references": 
+  [
+    {
+      "name": "Dr. Garrett Saunders",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Biostatistics Program Director | saundersg@byui.edu | 208-496-7546"
+    },
+    {
+      "name": "Paul Cannon",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Data Science Faculty | cannonp@byui.edu | 208-496-7565"
+    },
+    {
+      "name": "David Palmer",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Data Science Faculty | palmerda@byui.edu | 208-496-2597"
+    }
+  ],
+  "interests": 
+  [
     {
       "name": "Reading",
       "icon": "fa-solid fa-tag",
@@ -191,39 +246,5 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Dr. Garrett Saunders",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Biostatistics Program Director | saundersg@byui.edu | 208-496-7546"
-    },
-    {
-      "name": "Paul Cannon",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Data Science Faculty | cannonp@byui.edu | 208-496-7565"
-    },
-    {
-      "name": "David Palmer",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Data Science Faculty | palmerda@byui.edu | 208-496-2597"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Tutoring Center Dashboard Application",
-      "summary": "A dashboard application that provides insights into the tutoring center's average visit times and tutoring resource usage.",
-      "highlights": ["R", "R Shiny", "Interactive Dashboard", "Data Cleaning", "Data Visualization"],
-      "startDate": "2025-01-15",
-      "endDate": "present",
-      "url": "https://github.com/BYUIDSS/DSS_TutoringCenter"
-    },
-    {
-      "name": "Severe Weather Analysis",
-      "summary": "Project client: Western Electricity Coordination Council (WECC). Logistic Regression to predict the probability of severe weather in given conditions.",
-      "highlights": ["Python", "R", "Microsoft Excel", "Data Analysis", "Logistic Regression"],
-      "startDate": "2024-09-17",
-      "endDate": "2024-12-08",
-      "url": "n/a"
-    }
-  ]
+  "publications": []
 }
