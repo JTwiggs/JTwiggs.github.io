@@ -13,7 +13,8 @@
       "city": "n/a",
       "countryCode": "US",
       "region": "Midwest"
-    },
+    }
+  },
   "education": [
     {
       "institution": "Brigham Young University - Idaho",
@@ -76,8 +77,7 @@
       ]
     }
   ],
-  "projects": 
-  [
+  "projects": [
     {
       "name": "Stats VS. Sentiment in the Octagon",
       "summary": "Investigating the use of RAG models when given access to fighter data and public opinion on who would win a fight in the Octagon.",
@@ -111,8 +111,7 @@
       "url": ""
     }
   ],
-  "work": 
-  [
+  "work": [
     {
       "name": "Brigham Young University - Idaho",
       "position": "Teacher's Assistant / Tutor: Math 425 - Applied Linear Regressions",
@@ -123,8 +122,7 @@
       "highlights": ["Linear Regressions", "Communication", "R"]
     }
   ],
-  "certificates": 
-  [
+  "certificates": [
     {
       "name": "Life & Health Insurance License",
       "date": "2020-07-17",
@@ -133,8 +131,7 @@
       "icon": ""
     }
   ],
-  "awards": 
-  [
+  "awards": [
     {
       "title": "SEDC Sterling Scholar Award",
       "date": "2020-04-15",
@@ -150,8 +147,7 @@
       "icon": ""
     }
   ],
-  "profiles": 
-  [
+  "profiles": [
     {
       "network": "LinkedIn",
       "username": "JT Twiggs",
@@ -167,10 +163,8 @@
       "username": "JT Twiggs",
       "url": "https://www.facebook.com/people/JT-Twiggs/pfbid0kkN1ZAaSBemyhRFQfFZvbxkJt5CJA17wpAEe6tn4uHXnYgPRHM9gjr7ea55tw3zfl/?sk=photos"
     }
-  ]
-  },
-  "volunteer": 
-  [
+  ],
+  "volunteer": [
     {
       "organization": "Church of Jesus Christ of Latter-Day Saints - Humanitarian & Religious Service Mission",
       "location": "Trinidad & Tobago",
@@ -181,8 +175,7 @@
       "highlights": ["Public Speaking", "Leadership", "Service"]
     }
   ],
-  "references": 
-  [
+  "references": [
     {
       "name": "Dr. Garrett Saunders",
       "icon": "fa-solid fa-thumbtack",
@@ -199,8 +192,7 @@
       "reference": "Data Science Faculty | palmerda@byui.edu | 208-496-2597"
     }
   ],
-  "interests": 
-  [
+  "interests": [
     {
       "name": "Reading",
       "icon": "fa-solid fa-tag",
@@ -241,7 +233,7 @@
         "Balatro",
         "MTG",
         "Silver",
-        "Exploding Kittens",
+        "Dune Uprising",
         "Texas Hold'em"
       ]
     }
