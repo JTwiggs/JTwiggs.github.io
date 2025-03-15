@@ -34,7 +34,7 @@
       "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChsSEwjPoOmwhI2MAxV5CK0GHajyKWkYACICCAEQABoCcHY&co=1&gclid=Cj0KCQjwytS-BhCKARIsAMGJyzpMLFldVRPpf3BFXQRo8XQvvk_snx9eqcPTXPiIGOS_4bZNBloNlA0aAsmMEALw_wcB&ohost=www.google.com&cid=CAESVuD2Brl2xJDsY8FkGZsw9LF_lGz5fo_hwAi3TrruOu0gxlJkchRx9mTMcVRIvlcoFjcKkh_aLpu80kluZUWDHJ7Lfv8yNLHfuBYXjhd5CgFH0mYvhPji&sig=AOD64_3pOUrG4cOobTQBho_mO5xAqqE-ng&q&adurl&ved=2ahUKEwjZ4uKwhI2MAxVEIDQIHf7UHe4Q0Qx6BAgcEAE",
       "degree": "Associate of Science",
       "major": "Computer Science",
-      "studyType": "AS - Comp. Sci. - 3.73 GPA",
+      "studyType": "AS - Computer Science - 3.73 GPA",
       "startDate": "2018-01-07",
       "endDate": "2020-4-15",
       "GPA": "3.73",
@@ -45,35 +45,30 @@
     {
       "name": "Data Visualization",
       "keywords": [
-        "Plotly-Express",
-        "Lets-Plot",
-        "ggplot2"
+        "Python: Plotly-Express | Lets-Plot",
+        "R: ggplot2"
       ]
     },
     {
       "name": "Machine Learning",
       "keywords": [
-        "Python", 
-        "R",
-        "Scikit-learn"
+        "Python: Scikit-learn", 
+        "Spark: mllib"
       ]
     },
     {
       "name": "Data Analysis",
       "keywords": [
-        "Python", 
-        "R",
+        "Python: Pandas | Polars | Numpy | Scikit-learn", 
+        "R: Tidyverse | Mosaic | Stringr | Readr",
         "Spark",
-        "SQL"
+        "SQL: MySQL | SparkSQL"
       ]
     },
     {
       "name": "Statistical Modeling",
       "keywords": [
-        "Python", 
-        "R",
-        "logistic regression",
-        "linear regression"
+        "R: logistic regression | linear regression"
       ]
     }
   ],
