@@ -17,4 +17,6 @@ children:
     permalink: /repositories/
   - title: divider
 
+  - title: cv
+    permalink: /cv/
 ---

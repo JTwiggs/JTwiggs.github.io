@@ -192,11 +192,21 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-
+# stuff I am removing from the template until futher notice
+# pages to remove
   - _pages/publications.md
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/news.md
+# blog templates to remove
+  - 2024-12-04-photo-gallery.md
+  - 2024-05-01-tabs.md
+  - 2015-10-20-disqus-comments.md
+  - 2015-10-20-math.md
+  - 2018-12-22-distill.md
+  - 2020-09-28-twitter.md
+  - 2021-07-04-diagrams.md
+
 keep_files:
   - CNAME
   - .nojekyll
