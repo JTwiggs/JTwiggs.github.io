@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
+        },{id: "dropdown-blog",
+              title: "blog",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "";
+                window.location.href = "/blog/";
               },
             },{id: "dropdown-projects",
               title: "projects",
@@ -51,12 +51,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-repositories",
+              title: "repositories",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "";
               },
             },{id: "post-a-post-with-image-galleries",
       
@@ -254,6 +254,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/audios/";
+        
+      },
+    },{id: "post-a-post-with-videos",
+      
+        title: "a post with videos",
+      
+      description: "this is what included videos could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/Week11/";
         
       },
     },{id: "post-a-post-with-videos",
