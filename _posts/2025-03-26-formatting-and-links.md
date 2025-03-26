@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Week 12
-date: 2025-03-26 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
+date: 2025-03-26 14:28:26
+description: The final leg of the semester!
+tags: seniorProject n8n
 categories: sample-posts
 ---
 
