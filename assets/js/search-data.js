@@ -69,11 +69,22 @@ ninja.data = [{
       
         title: "Week 12",
       
-      description: "march &amp; april, looking forward to summer",
+      description: "The final leg of the semester!",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/formatting-and-links/";
+        
+      },
+    },{id: "post-week-10",
+      
+        title: "Week 10",
+      
+      description: "locking in for the next few weeks",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Week10-images/";
         
       },
     },{id: "post-a-post-with-image-galleries",
