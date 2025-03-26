@@ -76,6 +76,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/formatting-and-links/";
         
       },
+    },{id: "post-week-11-still-scraping-by",
+      
+        title: "Week 11 - Still Scraping By",
+      
+      description: "post with video, mentioning web scraping",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Week11/";
+        
+      },
     },{id: "post-week-10",
       
         title: "Week 10",
@@ -283,17 +294,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/audios/";
-        
-      },
-    },{id: "post-a-post-with-videos",
-      
-        title: "a post with videos",
-      
-      description: "this is what included videos could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/Week11/";
         
       },
     },{id: "post-a-post-with-videos",
