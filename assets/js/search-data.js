@@ -69,22 +69,33 @@ ninja.data = [{
       
         title: "Week 12",
       
-      description: "The final leg of the semester!",
+      description: "The week before the R&amp;CW conference.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/formatting-and-links/";
+          window.location.href = "/blog/2025/week12/";
         
       },
-    },{id: "post-week-11-still-scraping-by",
+    },{id: "post-week-11-crawl4ai",
       
-        title: "Week 11 - Still Scraping By",
+        title: "Week 11 - Crawl4AI",
       
-      description: "post with video, mentioning web scraping",
+      description: "Final week of preparations; poster, presentation, conclusion",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/Week11/";
+          window.location.href = "/blog/2025/Week13/";
+        
+      },
+    },{id: "post-week-11-crawl4ai",
+      
+        title: "Week 11 - Crawl4AI",
+      
+      description: "A quick update post about a new python library",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Week11-copy/";
         
       },
     },{id: "post-week-10",
