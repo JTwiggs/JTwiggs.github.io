@@ -199,6 +199,7 @@ exclude:
   - _pages/profiles.md
   - _pages/news.md
   - _pages/repositories.md
+  - _pages/projects.md
 
 # blog templates to ignore for now
   - _posts/2015-05-15-images.md
