@@ -55,15 +55,26 @@ ninja.data = [{
           window.location.href = "/blog/2025/Week13/";
         
       },
-    },{id: "post-week-12",
+    },{id: "post-week-12-finalizing-everything",
       
-        title: "Week 12",
+        title: "Week 12 - Finalizing Everything",
       
       description: "The week before the R&amp;CW conference.",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/week12/";
+        
+      },
+    },{id: "post-week-10-more-rag-research",
+      
+        title: "Week 10 - More RAG Research",
+      
+      description: "There is way more to this than I thought",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Week10/";
         
       },
     },{id: "post-week-11-crawl4ai",
@@ -77,15 +88,26 @@ ninja.data = [{
           window.location.href = "/blog/2025/Week11/";
         
       },
-    },{id: "post-week-10",
+    },{id: "post-week-9-new-portfolio-site",
       
-        title: "Week 10",
+        title: "Week 9 - New Portfolio Site",
       
-      description: "slight project shift",
+      description: "Al-folio is the way to go",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/Week10/";
+          window.location.href = "/blog/2025/Week9/";
+        
+      },
+    },{id: "post-week-8-career-fair",
+      
+        title: "Week 8 - Career Fair",
+      
+      description: "Project was postponed",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Week8/";
         
       },
     },{id: "news-a-simple-inline-announcement",
