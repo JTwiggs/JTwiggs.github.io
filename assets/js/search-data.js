@@ -81,7 +81,7 @@ ninja.data = [{
       
         title: "Week 11 - Crawl4AI",
       
-      description: "A quick update post about a new python library",
+      description: "Crawl4AI and other awesome resources",
       section: "Posts",
       handler: () => {
         
