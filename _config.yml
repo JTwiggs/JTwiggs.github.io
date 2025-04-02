@@ -123,12 +123,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
+  # - name: Google Blog
+  #   posts:
+  #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+  #       published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -192,13 +192,14 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-# stuff I am removing from the template until futher notice
+# stuff I am removing from the template until further notice
 # pages to remove
   - _pages/publications.md
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/news.md
   - _pages/repositories.md
+
 # blog templates to ignore for now
   - _posts/2015-05-15-images.md
   - _posts/2015-07-15-code.md
