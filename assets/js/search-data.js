@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-week-12",
+            },{id: "post-week-13-conference-week",
+      
+        title: "Week 13 - Conference Week",
+      
+      description: "Final week of preparations; poster, presentation, conclusion",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Week13/";
+        
+      },
+    },{id: "post-week-12",
       
         title: "Week 12",
       
