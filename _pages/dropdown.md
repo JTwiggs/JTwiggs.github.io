@@ -13,10 +13,6 @@ children:
     permalink: /projects/
   - title: divider
 
-  - title: repositories
-    permalink: /repositories/
-  - title: divider
-
   - title: cv
     permalink: /cv/
 ---

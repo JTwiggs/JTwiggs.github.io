@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: JT's Blog # blog_name will be displayed in your blog page
-blog_description: A spot for all my projects, upskill processes, and ideas
+blog_name: The Blog # blog_name will be displayed in your blog page
+blog_description: A spot for all  projects, upskilling processes, and future ideas
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -198,6 +198,7 @@ exclude:
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/news.md
+  - _pages/repositories.md
 # blog templates to ignore for now
   - _posts/2015-05-15-images.md
   - _posts/2015-07-15-code.md
