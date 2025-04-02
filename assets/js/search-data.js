@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "Here is a more engaging take on my resume than a piece of paper. Take a look around, and reach out if you want to hear more!",
@@ -46,13 +39,6 @@ ninja.data = [{
               },
             },{id: "dropdown-projects",
               title: "projects",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-repositories",
-              title: "repositories",
               description: "",
               section: "Dropdown",
               handler: () => {
