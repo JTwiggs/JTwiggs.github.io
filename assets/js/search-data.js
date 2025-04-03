@@ -55,11 +55,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/Week13/";
         
       },
-    },{id: "post-week-12-finalizing-everything",
+    },{id: "post-week-12-putting-the-pieces-together",
       
-        title: "Week 12 - Finalizing Everything",
+        title: "Week 12 - Putting the Pieces Together",
       
-      description: "The week before the R&amp;CW conference.",
+      description: "Data collection made easy with Crawl4AI",
       section: "Posts",
       handler: () => {
         
