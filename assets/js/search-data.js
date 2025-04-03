@@ -99,11 +99,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/Week9/";
         
       },
-    },{id: "post-week-8-career-fair",
+    },{id: "post-week-8-career-fair-amp-resume",
       
-        title: "Week 8 - Career Fair",
+        title: "Week 8 - Career Fair &amp; Resume",
       
-      description: "Project was postponed",
+      description: "Project work will be resumed next week",
       section: "Posts",
       handler: () => {
         
